@@ -1,0 +1,90 @@
+h1, ul, li  {
+    display: inline-block;
+    margin: 10px;
+    background-color: #FFFFFF;
+    color: white;
+    /* border: 1px solid black; */
+   
+    
+}
+
+header {
+    border: 1px solid black;
+
+
+}
+
+
+main {
+    margin: 30px;
+    border: 1px solid black;
+    background-color: #007AFF;
+    padding: 30px;
+    font-size: 34px;
+}
+.erkin2{
+    background-color: #007AFF;
+    color: white;
+}
+
+
+
+
+img {
+   width: 15    0px;
+   height: 90px;
+}
+
+
+option {
+    background-color: #007AFF;
+    font-size: 34PX;
+}
+
+li {
+
+    list-style: none;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+a {
+
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    
+}
+.kinodiv {
+    width: 200px;
+    border: 1px solid #000000;
+    padding: 10px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.kinonomi {
+    text-align: center;
+    font-size: 15px;
+}
+
+.rasmhajmi {
+    height: 300px;
+    width: 200px;
+}
+
+.buton {
+    background-color: green;
+}
+
+.erkin {
+    background-color: white;
+}
+label {
+    color: #000000;
+}
+
+
